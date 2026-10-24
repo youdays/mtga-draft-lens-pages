@@ -2,6 +2,13 @@
   "schemaVersion": 1,
   "datasets": [
     {
+      "expansion": "FRA",
+      "format": "PremierDraft",
+      "timePeriod": "ALL_TIME",
+      "path": "PremierDraft-FRA.json",
+      "generatedAt": "2026-10-24T16:43:51.840Z"
+    },
+    {
       "expansion": "HOB",
       "format": "PremierDraft",
       "timePeriod": "ALL_TIME",
