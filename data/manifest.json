@@ -16,11 +16,25 @@
       "generatedAt": "2026-09-22T16:21:00.437Z"
     },
     {
+      "expansion": "TRK",
+      "format": "PremierDraft",
+      "timePeriod": "ALL_TIME",
+      "path": "PremierDraft-TRK.json",
+      "generatedAt": "2026-11-23T11:04:38.145Z"
+    },
+    {
       "expansion": "HOB",
       "format": "QuickDraft",
       "timePeriod": "ALL_TIME",
       "path": "QuickDraft-HOB.json",
       "generatedAt": "2026-09-22T16:20:02.918Z"
+    },
+    {
+      "expansion": "TRK",
+      "format": "QuickDraft",
+      "timePeriod": "ALL_TIME",
+      "path": "QuickDraft-TRK.json",
+      "generatedAt": "2026-11-23T11:05:06.938Z"
     }
   ]
 }
