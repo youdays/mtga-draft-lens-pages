@@ -20,7 +20,7 @@
       "format": "PremierDraft",
       "timePeriod": "ALL_TIME",
       "path": "PremierDraft-TRK.json",
-      "generatedAt": "2026-11-23T11:04:38.145Z"
+      "generatedAt": "2026-11-27T16:25:56.135Z"
     },
     {
       "expansion": "HOB",
@@ -34,7 +34,7 @@
       "format": "QuickDraft",
       "timePeriod": "ALL_TIME",
       "path": "QuickDraft-TRK.json",
-      "generatedAt": "2026-11-23T11:05:06.938Z"
+      "generatedAt": "2026-11-27T16:26:13.686Z"
     }
   ]
 }
